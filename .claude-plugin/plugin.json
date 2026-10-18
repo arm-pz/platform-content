@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "platform-content",
+  "version": "0.1.0",
+  "description": "Platform-native content packs: threads, LinkedIn posts, video scripts, captions, newsletters, blog articles, podcast outlines, a 30-day calendar and repurposing chains.",
+  "author": {
+    "name": "arm-pz",
+    "url": "https://github.com/arm-pz"
+  },
+  "homepage": "https://github.com/arm-pz/platform-content",
+  "repository": "https://github.com/arm-pz/platform-content",
+  "keywords": ["content-calendar", "repurposing", "social-media", "short-video", "newsletters", "agent-skills"],
+  "skills": "./skills/"
+}
