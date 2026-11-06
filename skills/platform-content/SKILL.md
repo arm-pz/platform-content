@@ -2,6 +2,7 @@
 name: platform-content
 description: >-
   Platform-native content packs: Twitter/X threads, LinkedIn posts, YouTube and TikTok scripts, Instagram captions, newsletter issues, blog articles, podcast outlines, 30-day calendars and repurposing chains, each with hook, body and call to action, built from a brief about your platform, niche, audience and goal. Use whenever someone asks for social or audience content: write me a thread about X, a LinkedIn post that brings leads, turn this into ten posts, plan next month of content, a YouTube script people actually finish, or they bring a blog, newsletter or podcast idea that needs an asset per platform, even if they never say content strategy. Not for copy that sells a product (use sales-copy), rewriting text the user already wrote (use wordsmith), SEO cluster and cannibalization planning (use keyword-guard), or career documents (use career-track).
+version: 1.0.0
 ---
 
 # Platform Content
